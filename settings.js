@@ -25,9 +25,9 @@ global.language = english  //change indonesia to english if you don't understand
 // Other
 global.botname = "Viann-Mdོ" //namabot kalian
 global.ownername= "Juvian ×፝֟͜×" //nama kalian
-global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
-global.youtube = "https://youtube.com/c/ZeeoneOfc" //bebas asal jan hapus
-global.github = "https://zeeone-ofc.github.io/" //bebas
+global.myweb ="https://chat.whatsapp.com/FvVp4ePuehu56rzaUOgNiZ" //bebas asal jan hapus
+global.youtube = "https://youtube.com/channel/UCL-1ccm0on-hBuh2GWLaZRA" //bebas asal jan hapus
+global.github = "https://juviann.github.io/" //bebas
 global.email = "johanmichael929@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
