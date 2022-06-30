@@ -34,9 +34,9 @@ global.timezone = 'Asia/Jakarta' //  timezone wib
 global.owner = ["6282362285077","6282362285077"] //ganti agar fitur owner bisa di gunakan
 global.ownernomer = "6282362285077" // nomor wa kalian
 global.ownernomerr = "+6282362285077" //nmr wa kalian
-global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
+global.thumbnail = "./image/1656087701668_compress1-compress1 (1).jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/IMG_20220630_205407.jpg" // foto donasi di folder image
-global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
+global.background_welcome="https://telegra.ph/file/9793eef47db219064643d.jpg" // maks size 30kb, agar welcome image nya tdk delay
 
 global.packname = '© Viann-Mdོ' //sticker wm ubah
 global.author = 'Di Buat Oleh Juvian' //sticker wm ganti nama kalian
